@@ -1,0 +1,6 @@
+{
+  "name": "PitchStream Live - Sports Streaming Hub",
+  "description": "High-performance live sports streaming application for NRL, Super League, Rugby League World Cup, and Soccer with adaptive HLS video, multi-angle feeds, real-time match stats, and interactive fan hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
